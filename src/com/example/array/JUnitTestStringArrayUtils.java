@@ -1,4 +1,4 @@
-package com.array.example;
+package com.example.array;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
