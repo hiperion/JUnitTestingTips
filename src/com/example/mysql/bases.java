@@ -1,4 +1,4 @@
-package com.mysql.example;
+package com.example.mysql;
 
 import org.junit.After;
 import org.junit.Test;
