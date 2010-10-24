@@ -25,11 +25,11 @@ public class JUnitTestStringArrayUtils {
 	private static StringArrayUtils stringUtils;
 
 	/**
-  	 * Leemos desde un fichero, los datos de prueba con los que vamos a realizar las pruebas
+  	 * Read from a file, the test data with which we will perform tests
 	 */
 	@BeforeClass
 	public static void inicioClase() {
-		// Leemos las cadenas con las que vamos a realizar las pruebas desde un fichero de texto
+		// Reading the chains with which we will perform tests from a text file
 		try {
 			FileReader reader = new FileReader("string.txt");
 			BufferedReader buffer = new BufferedReader(reader);
@@ -40,60 +40,57 @@ public class JUnitTestStringArrayUtils {
 				line = buffer.readLine();
 			}
 
-			// Creamos el String[] a partir de los datos leidos del fichero
+			// String Creation from the data read from the file
 			String[] elements = new String[velements.size()];
 			velements.copyInto(elements);
 
 			JUnitTestStringArrayUtils.stringUtils = new StringArrayUtils(
 					elements);
 
-			// Liberamos recursos
+			// Resources freed
 			velements.removeAllElements();
 			reader.close();
 		} catch (IOException ex) {
-			// No se dará
+			// Never happen
 		}
 
 	}
 	
 	/**
-	 * Este método liberaría los recursos reservados en BeforeClass
+	 * This approach would free the resources reserved in BeforeClass
 	 */
 	@AfterClass
 	public static void finClase() {
-		// Para este ejemplo no hacemos nada, pero exponemos el método por
-		// motivos didácticos exclusivamente
+		// It'll happen at the end.
 	}
 
 	/**
-	 * Este método se ejecuta para cada prueba ANTES de invocar el código de cada prueba
+	 * This method is executed for each test before invoking the code of each test
 	 */
 	@Before
 	public void testStart() {
-		// Para este ejemplo no hacemos nada, pero exponemos el método por
-		// motivos didácticos exclusivamente
+		// Write an example.
 	}
 
 	/**
-	 * Este método se ejecuta para cada prueba DESPUÉS de invocar el código de cada prueba.
+	 * This method is executed for each test after invoking the code of each test
 	 */
 	@After
 	public void testEnd() {
-		// Para este ejemplo no hacemos nada, pero exponemos el método por
-		// motivos didacticos exclusivamente
+		// Write an example.
 	}
 
 	/**
-	 * Verificamos que en caso de recibir un null como argumento en el
-	 * constructor la clase lanza una IllegalArgumentException
-	 */
+         * We found that if given a null as an argument
+         * Class constructor throws an IllegalArgumentException	 
+        */
 	@Test(expected = java.lang.IllegalArgumentException.class)
 	public void initTest() {
 		new StringArrayUtils(null);
 	}
 
 	/**
-	 * Verificamos que la cadena más larga sea la cadena "Tres"
+	 * We verified that the longer the string string "Three"
 	 */
 	@Test
 	public void getLengthTest() {
@@ -101,9 +98,9 @@ public class JUnitTestStringArrayUtils {
 	}
 
 	/**
-	 * Prueba sobre el método que devuelve la suma total de todas las cadenas
-	 * almacenadas Suponemos que el calculo del tamaño total es un método
-	 * crítico que debe realizarse antes de 25 milisegundos
+	 * Test the method that returns the sum total of all chains
+         * Stored calculations assume that the total size is a method
+         * Critical due by 25 milliseconds
 	 */
 	@Test(timeout = 25)
 	public void getTotalLengthTest() {
@@ -111,9 +108,9 @@ public class JUnitTestStringArrayUtils {
 	}
 
 	/**
-	 * Prueba sobre el método que devuelve la posición de una cadena.
-	 * Verificamos que si le pasamos null como argumento lanza la excepción
-	 * correcta
+         * Test the method that returns the position of a string.
+         * Verify that if we pass null as argument throws
+         * Right
 	 */
 	@Test(expected = java.lang.IllegalArgumentException.class)
 	public void getIndexOfTest() {
@@ -121,41 +118,41 @@ public class JUnitTestStringArrayUtils {
 	}
 
 	/**
-	 * Prueba sobre el método que devuelve la posición de una cadena Verificamos
-	 * que si le pasamos una cadena que no existe como argumento lanza la
-	 * excepción correcta
+         * Test the method that returns the position of a string verified
+         * That if we pass a string as an argument there Releases
+         * Correct exception
 	 */
 	@Test(expected = java.util.NoSuchElementException.class)
 	public void getIndexOfTest2() {
-		Assert.assertEquals(0, JUnitTestStringArrayUtils.stringUtils.getIndexOf("EsteElementoNoExiste"));
+		Assert.assertEquals(0, JUnitTestStringArrayUtils.stringUtils.getIndexOf("This item does not exist"));
 	}
 
 	/**
-	 * Prueba sobre el método que devuelve la posición de una cadena. 
-	 * Verificamos que si le pasamos una cadena que existe devuelve la posición correcta
-	 */
+         * Test the method that returns the position of a string.
+         * Verify that if we pass a string that returns the position exists	 
+        */
 	@Test
 	public void getIndexOfTest3() {
 		Assert.assertEquals(1, JUnitTestStringArrayUtils.stringUtils.getIndexOf("Dos"));
 	}
 
-	@Ignore("Este test no se hace, se expone como ejemplo")
+	@Ignore("Test ignorated")
 	@Test
 	public void ignore() {
-		// Código que compone la prueba
+		// source code
 		// ...
 		// ...
 	}
 
 	/**
-	 * @return Para mantener compatibilidad con las herramientas que tratan con versiones anteriores de JUnit
+	 * @return To maintain compatibility with the tools to deal with earlier versions of JUnit
 	 */
 	public static junit.framework.Test suite() {
 		return new JUnit4TestAdapter(JUnitTestStringArrayUtils.class);
 	}
 
 	/**
-	 * Lanza las pruebas sin compatibilidad hacia atrás, es decir se requiere Java 5 y JUnit4 instalado
+	 * tests without backward compatibility, ie it requires Java 5 and installed JUnit4
 	 */
 	/*public static void main(String[] args) {
 		JUnitCore.runClasses(JUnitTestStringArrayUtils.class);
