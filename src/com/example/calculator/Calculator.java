@@ -3,19 +3,19 @@ package com.example.calculator;
 
 public class Calculator extends Object {    
 
-  public int sumar(int operando1, int operando2) {
+  public int add(int operando1, int operando2) {
      return operando1 + operando2;
   }
 
-  public int restar(int operando1, int operando2) {
+  public int subtract(int operando1, int operando2) {
      return operando1 - operando2;
   }
 
-  public int multiplicar(int operando1, int operando2) {
+  public int multiply(int operando1, int operando2) {
      return operando1 * operando2;
   }      
 
-  public int dividir(int operando1, int operando2) {
+  public int divide(int operando1, int operando2) {
      return operando1 / operando2;
   }    
 }

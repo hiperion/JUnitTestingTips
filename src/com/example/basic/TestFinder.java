@@ -7,7 +7,8 @@ import junit.framework.TestSuite;
 
 class TestFinder {
 
-  public static void run(Class which, String[] args) {
+  @SuppressWarnings({ "rawtypes", "unchecked" })
+public static void run(@SuppressWarnings("rawtypes") Class which, String[] args) {
     TestSuite suite = null;
     if (args.length != 0) {
       try {

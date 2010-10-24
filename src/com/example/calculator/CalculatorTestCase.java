@@ -1,7 +1,10 @@
 package com.example.calculator;
 
+import java.math.BigDecimal;
+import java.math.BigInteger;
+
 import junit.framework.TestCase;
-//import junit.swingui.TestRunner;
+
 
 public class CalculatorTestCase extends TestCase {
   private Calculator calculadora;
@@ -18,8 +21,8 @@ public class CalculatorTestCase extends TestCase {
      int op1 = 10;
      int op2 = 15;
      int resultadoEsperado = op1 + op2;
-     int resultadoObtenido = this.calculadora.sumar(op1, op2);
-     assertEquals("Error en la suma!", resultadoEsperado, resultadoObtenido, 0);
+     int resultadoObtenido = this.calculadora.add(op1, op2);
+     assertEquals("Error adding!!", resultadoEsperado, resultadoObtenido, 0);
   }
   
   public void testDividirEnteros() {
@@ -28,12 +31,17 @@ public class CalculatorTestCase extends TestCase {
 	}
 
 	public void testDividirPorCero() {     
-	  //...
-	  try {
-	    //   ... 
-	  } catch (ArithmeticException e) {
-	      // ...
-	  }
+		String a = "1231212478987482988429808779810457634781384756794987";
+        int aScale = 15;
+        BigDecimal aNumber = new BigDecimal(new BigInteger(a), aScale);
+        BigDecimal bNumber = BigDecimal.valueOf(0L);
+        try {
+            aNumber.divide(bNumber);
+            fail("ArithmeticException has not been caught");
+        } catch (ArithmeticException e) {
+            assertEquals("Improper exception message", "Division by zero", e.getMessage());
+        }
+
 	}
 
 	
