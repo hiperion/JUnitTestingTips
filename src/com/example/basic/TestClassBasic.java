@@ -11,7 +11,7 @@ public class TestClassBasic extends TestCase {
 
 		assertEquals("Should be 3 1/3", 3.33, 10.0 / 3.0, 0.01);
 		assertNull("it should be null", null);
-		assertSame("should be same", "expected", "actual");
+		assertSame("should be same", "expected", "expected");
 		assertNotSame("should be same", "expected", "actual");
 		assertTrue("should be same", true);
 		assertFalse("should be same", true);

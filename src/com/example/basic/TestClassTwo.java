@@ -11,8 +11,7 @@ public class TestClassTwo extends TestCase {
     super(method);
   }
 
-  // This one takes a few hours...
-  public void testLongRunner() {
+   public void testLongRunner() {
     assertEquals(2300, 50);
   }
 
