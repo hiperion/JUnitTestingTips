@@ -1,9 +1,10 @@
 package com.example.array;
 
-import junit.framework.TestCase;
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.fail;
+
+import java.util.ArrayList;
+import java.util.List;
+
 import org.apache.log4j.Logger;
 import org.junit.Rule;
 import org.junit.Test;
@@ -34,5 +35,17 @@ public class TestLargest {
 		arr[2] = 7;
 		assertEquals(9, Largest.largest(arr));
 	}
+	
+	@Test
+	public void listEquality() {
+		List<Integer> expected = new ArrayList<Integer>();
+		expected.add(5);
+
+		List<Integer> actual = new ArrayList<Integer>();
+		actual.add(5);
+
+		assertEquals(expected, actual);
+	}
+
 
 }
