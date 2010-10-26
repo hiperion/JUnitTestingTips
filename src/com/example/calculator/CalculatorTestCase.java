@@ -7,30 +7,30 @@ import junit.framework.TestCase;
 
 
 public class CalculatorTestCase extends TestCase {
-  private Calculator calculadora;
+  private Calculator calculator;
 
   public void setUp() {
-    this.calculadora = new Calculator();
+    this.calculator = new Calculator();
   }
 
   public void tearDown() {
-    this.calculadora = null;
+    this.calculator = null;
   }
 
-  public void testSumarEnteros() {
+  public void testAddInteger() {
      int op1 = 10;
      int op2 = 15;
      int resultadoEsperado = op1 + op2;
-     int resultadoObtenido = this.calculadora.add(op1, op2);
+     int resultadoObtenido = this.calculator.add(op1, op2);
      assertEquals("Error adding!!", resultadoEsperado, resultadoObtenido, 0);
   }
   
-  public void testDividirEnteros() {
+  public void testDivideInteger() {
 	  //...
 	  //assertEquals("Error en la division!", resultadoEsperado, resultadoObtenido, 0);
 	}
 
-	public void testDividirPorCero() {     
+	public void testDivideByZero() {     
 		String a = "1231212478987482988429808779810457634781384756794987";
         int aScale = 15;
         BigDecimal aNumber = new BigDecimal(new BigInteger(a), aScale);

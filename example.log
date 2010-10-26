@@ -1,0 +1,190 @@
+DEBUG main com.example.basic.TestClassBasic - My debug message 
+DEBUG main com.example.basic.TestClassBasic - My debug message 
+DEBUG main com.example.basic.TestClassBasic - My debug message 
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main com.example.collection.TestArray - Being run...testEmptyCollection
+INFO main com.example.collection.TestArray - Being run...testArray1
+INFO main com.example.collection.TestArray - Element 0: 0
+INFO main com.example.collection.TestArray - Element 1: 1
+INFO main com.example.collection.TestArray - Element 2: 2
+INFO main com.example.collection.TestArray - Element 3: 3
+INFO main com.example.collection.TestArray - Element 4: 4
+INFO main com.example.collection.TestArray - Element 5: 5
+INFO main com.example.collection.TestArray - Element 6: 6
+INFO main com.example.collection.TestArray - Element 7: 7
+INFO main com.example.collection.TestArray - Element 8: 8
+INFO main com.example.collection.TestArray - Element 9: 9
+INFO main com.example.collection.TestArray - Being run...testArray2
+INFO main com.example.collection.TestArray - Being run...testArray3
+INFO main com.example.collection.TestArray - Being run...testArray4
+INFO main com.example.collection.TestArray - Being run...testArray5
+INFO main com.example.collection.TestArray - Being run...testArray6
+INFO main com.example.collection.TestArray - Being run...testArray7
+INFO main com.example.collection.TestArray - Being run...testArray8
+INFO main com.example.collection.TestArray - Being run...testArray9
+DEBUG main java.lang.Class - My debug message 
+INFO main com.example.array.TestLargest - Being run...testOrder1
+INFO main com.example.array.TestLargest - Being run...testOrder2
+INFO main com.example.array.TestLargest - Being run...listEquality
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Being run...testArray3
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray1
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testArray6
+INFO main java.lang.Class - Being run...testArray7
+INFO main java.lang.Class - Being run...testArray8
+INFO main java.lang.Class - Being run...testArray9
+DEBUG main java.lang.Class - My debug message 
+INFO main com.example.array.TestLargest - Being run...testOrder1
+INFO main com.example.array.TestLargest - Being run...testOrder2
+INFO main com.example.array.TestLargest - Being run...listEquality
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Being run...testArray3
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray1
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testArray6
+INFO main java.lang.Class - Being run...testArray7
+INFO main java.lang.Class - Being run...testArray8
+INFO main java.lang.Class - Being run...testArray9
+DEBUG main java.lang.Class - My debug message 
+INFO main com.example.array.TestLargest - Being run...testOrder1
+INFO main com.example.array.TestLargest - Being run...testOrder2
+INFO main com.example.array.TestLargest - Being run...listEquality
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 0
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 1
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 2
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 3
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 4
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 5
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 6
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 7
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 8
+INFO main java.lang.Class - Element java.util.ArrayList$Itr@ef137d: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9

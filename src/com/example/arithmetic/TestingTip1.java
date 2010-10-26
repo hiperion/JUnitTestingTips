@@ -2,11 +2,26 @@ package com.example.arithmetic;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
+
+import org.apache.log4j.Logger;
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.TestWatchman;
+import org.junit.runners.model.FrameworkMethod;
 
 public class TestingTip1 {
+
+
+	@Rule
+	public TestWatchman watchman = new TestWatchman() {
+		public void starting(FrameworkMethod method) {
+			log.info("Being run..." + method.getName());
+		}
+	};
+
+	private static Logger log = Logger.getLogger(Class.class);
 
 	// How do I test a method that returns an array?
 	// assertEquals doesn't work for arrays. However, the Arrays class has a
@@ -24,7 +39,6 @@ public class TestingTip1 {
 			// exam.setScore(-1);
 		} catch (IllegalArgumentException e) {
 			fail();
-			
 		}
 	}
 

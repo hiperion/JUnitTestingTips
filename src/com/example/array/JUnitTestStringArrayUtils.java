@@ -8,12 +8,16 @@ import java.util.Vector;
 import junit.framework.Assert;
 import junit.framework.JUnit4TestAdapter;
 
+import org.apache.log4j.Logger;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.TestWatchman;
+import org.junit.runners.model.FrameworkMethod;
 
 /**
  * Perform functional tests on the calculator class
@@ -24,6 +28,14 @@ public class JUnitTestStringArrayUtils {
 
 	private static StringArrayUtils stringUtils;
 
+	@Rule
+	public TestWatchman watchman = new TestWatchman() {
+		public void starting(FrameworkMethod method) {
+			log.info("Being run..." + method.getName());
+		}
+	};
+
+	private static Logger log = Logger.getLogger(Class.class);
 	/**
   	 * Read from a file, the test data with which we will perform tests
 	 */
@@ -133,7 +145,7 @@ public class JUnitTestStringArrayUtils {
         */
 	@Test
 	public void getIndexOfTest3() {
-		Assert.assertEquals(1, JUnitTestStringArrayUtils.stringUtils.getIndexOf("Dos"));
+		Assert.assertEquals(2, JUnitTestStringArrayUtils.stringUtils.getIndexOf("two"));
 	}
 
 	@Ignore("Test ignorated")
