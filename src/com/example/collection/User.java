@@ -24,7 +24,7 @@ public class User {
 	  
 	  public int compareTo(Object o) {
 		    User userA = (User) o;
-		    //podemos hacer esto porque String implementa Comparable
+		    //String implements comparable
 		    return name.compareTo(userA.getName());
 		  }
 

@@ -11,17 +11,9 @@ import org.junit.Test;
 import org.junit.rules.TestWatchman;
 import org.junit.runners.model.FrameworkMethod;
 
-public class TestingTip1 {
+import com.example.common.Principal;
 
-
-	@Rule
-	public TestWatchman watchman = new TestWatchman() {
-		public void starting(FrameworkMethod method) {
-			log.info("Being run..." + method.getName());
-		}
-	};
-
-	private static Logger log = Logger.getLogger(Class.class);
+public class TestingTip1 extends Principal {	
 
 	// How do I test a method that returns an array?
 	// assertEquals doesn't work for arrays. However, the Arrays class has a
@@ -46,7 +38,7 @@ public class TestingTip1 {
 	public void test2() throws Exception {
 
 		int i = 0;
-		assertTrue("Valor Igual a 3", i != 3);
+		assertTrue("It's equal 3", i != 3);
 
 	}
 

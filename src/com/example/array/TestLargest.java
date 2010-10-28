@@ -9,8 +9,13 @@ import org.apache.log4j.Logger;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestWatchman;
+import org.junit.runner.RunWith;
 import org.junit.runners.model.FrameworkMethod;
 
+import com.example.common.DescriptionSorterRunner;
+
+// With RunWith we can execute junit in alphabetical order. 
+@RunWith(DescriptionSorterRunner.class)
 public class TestLargest {
 
 	@Rule
@@ -47,5 +52,12 @@ public class TestLargest {
 		assertEquals(expected, actual);
 	}
 
-
+	/*public void testEmpty() {
+	    try {
+	      Largest.largest(new int[] {});
+	      fail("Should have thrown an exception");
+	    } catch (RuntimeException e) {
+	      assertTrue(true);
+	    }
+	  }*/
 }

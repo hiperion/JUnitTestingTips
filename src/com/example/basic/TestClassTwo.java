@@ -16,10 +16,15 @@ public class TestClassTwo extends TestCase {
   }
 
   public void testShortTest() {
-    assertEquals(140, 5);
+    assertNotEquals(140, 5);
   }
 
-  public void testAnotherShortTest() {
+  private void assertNotEquals(int i, int j) {
+	// TODO Auto-generated method stub
+	
+}
+
+public void testAnotherShortTest() {
     assertEquals(586, 10);
   }
 

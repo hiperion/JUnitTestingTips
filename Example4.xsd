@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>  
+    <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
+        <xsd:element name="persona">  
+            <xsd:complexType>  
+                <xsd:sequence>  
+                    <xsd:element name="codigo"       type="codigo_pattern"/>  
+                    <xsd:element name="nombre"       type="longitud_3_20"/>  
+                    <xsd:element name="edad"     type="int_range_18_150"/>  
+                    <xsd:element name="sexo"     type="tipo_sexo"/>  
+                  <xsd:element name="sucursales"   type="lista_provincias"/>  
+               </xsd:sequence>  
+           </xsd:complexType>  
+             
+       </xsd:element>  
+         
+       <xsd:simpleType name="codigo_pattern">  
+           <xsd:restriction base="xsd:string">  
+               <xsd:pattern value="[a-z]{4}[0-9]{2}"/>  
+           </xsd:restriction>  
+       </xsd:simpleType>  
+         
+       <xsd:simpleType name="longitud_3_20">  
+           <xsd:restriction base="xsd:string">  
+               <xsd:minLength value="3"/>  
+               <xsd:maxLength value="20"/>  
+           </xsd:restriction>  
+       </xsd:simpleType>  
+         
+       <xsd:simpleType name="int_range_18_150">  
+           <xsd:restriction base="xsd:integer">  
+               <xsd:minInclusive value="18"/>  
+               <xsd:maxInclusive value="150"/>  
+           </xsd:restriction>  
+       </xsd:simpleType>  
+         
+       <xsd:simpleType name="tipo_sexo">  
+           <xsd:restriction base="xsd:string">  
+               <xsd:enumeration value="hombre"/>  
+               <xsd:enumeration value="mujer"/>  
+           </xsd:restriction>  
+       </xsd:simpleType>  
+         
+       <xsd:simpleType name="provincia">  
+           <xsd:restriction base="xsd:string">  
+               <xsd:enumeration value="Madrid"/>  
+               <xsd:enumeration value="Granada"/>  
+               <xsd:enumeration value="Sevilla"/>  
+           </xsd:restriction>  
+       </xsd:simpleType>   
+         
+       <xsd:simpleType name="lista_provincias">  
+           <xsd:list itemType="provincia"/>  
+       </xsd:simpleType>   
+   </xsd:schema>  

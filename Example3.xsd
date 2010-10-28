@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="figure">
+		<xsd:complexType>
+			<xsd:all minOccurs="1" maxOccurs="1">
+				<xsd:element name="x" type="xsd:integer" />
+				<xsd:element name="y" type="xsd:integer" />
+			</xsd:all>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>                      

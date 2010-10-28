@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>  
+ <persona>  
+     <codigo>abcd91</codigo>  
+     <nombre>José</nombre>  
+     <edad>22</edad>  
+     <sexo>hombre</sexo>  
+     <sucursales>Sevilla Granada</sucursales>  
+</persona>  
+	

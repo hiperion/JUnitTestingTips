@@ -188,3 +188,299 @@ INFO main java.lang.Class - Element 6: 6
 INFO main java.lang.Class - Element 7: 7
 INFO main java.lang.Class - Element 8: 8
 INFO main java.lang.Class - Element 9: 9
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray1
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray3
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testArray6
+INFO main java.lang.Class - Being run...testArray7
+INFO main java.lang.Class - Being run...testArray8
+INFO main java.lang.Class - Being run...testArray9
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xmlExample1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xmlExample2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xmlExample3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xmlExample4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xml-Example1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xml-Example2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xml-Example3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xml-Example4.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xml - Example1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xml - Example2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xml - Example3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xml - Example4.xsd
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xml - Example1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xml - Example2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xml - Example3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xml - Example4.xsd
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray1
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray3
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testArray6
+INFO main java.lang.Class - Being run...testArray7
+INFO main java.lang.Class - Being run...testArray8
+INFO main java.lang.Class - Being run...testArray9
+DEBUG main java.lang.Class - My debug message 
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xml - Example1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xml - Example2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xml - Example3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xml - Example4.xsd
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray1
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray3
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testArray6
+INFO main java.lang.Class - Being run...testArray7
+INFO main java.lang.Class - Being run...testArray8
+INFO main java.lang.Class - Being run...testArray9
+DEBUG main java.lang.Class - My debug message 
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example1.xml - Example1.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example2.xml - Example2.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example3.xml - Example3.xsd
+INFO main java.lang.Class - Being run...TestXML
+DEBUG main java.lang.Class - Example4.xml - Example4.xsd
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray1
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray3
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testArray6
+INFO main java.lang.Class - Being run...testArray7
+INFO main java.lang.Class - Being run...testArray8
+INFO main java.lang.Class - Being run...testArray9
+DEBUG main java.lang.Class - My debug message 
