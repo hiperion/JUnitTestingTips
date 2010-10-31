@@ -1,13 +1,11 @@
 package com.example.basic;
 
+import junit.framework.TestCase;
+
 import org.apache.log4j.Logger;
 import org.junit.Rule;
 import org.junit.rules.TestWatchman;
 import org.junit.runners.model.FrameworkMethod;
-
-import com.example.arithmetic.TestingTip1;
-
-import junit.framework.TestCase;
 
 public class TestClassBasic extends TestCase {
 

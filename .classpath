@@ -11,5 +11,10 @@
 			<attribute name="owner.project.facets" value="jst.jsf"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/easymock3.0"/>
+	<classpathentry kind="lib" path="Lib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdom"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Xerces2.9.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jaxen"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

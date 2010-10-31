@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Descargas>
+    <descarga id="1">
+        <titulo>Books Java</titulo>
+        <ruta>http://books.zip</ruta>
+        <hits>2546</hits>
+    </descarga>
+    <descarga id="2">
+        <titulo>Books C Sharp</titulo>
+        <ruta>http://booksc.zip</ruta>
+        <hits>1654</hits>
+    </descarga>
+</Descargas>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<liga classification="Champions League">
+  <team>
+    <club assessment="10" city="City A">Club City A</club>
+    <president>President A</president>
+    <players>
+      <name>Name A</name>
+      <name>Name B</name>
+      <name>Name C</name>
+    </players>
+  </team>
+  <team>
+    <club assessment="5" city="City B">Club City B</club>
+    <president>President B</president>
+    <players>
+      <name>Name A</name>
+      <name>Name B</name>
+      <name>Name C</name>
+    </players>
+    <withforeign/>
+  </team>
+  <referee>
+    <name>Name A</name>
+    <name>Name B</name>
+  </referee>
+</liga>

@@ -28,7 +28,7 @@ public class bases {
 			Connection conexion = DriverManager.getConnection(
 					"jdbc:mysql://localhost/schemapfc", "user1", "user1");
 
-			// Crear objeto Statement para realizar queries a la base de datos
+			// CreateXml objeto Statement para realizar queries a la base de datos
 			Statement instruccion = conexion.createStatement();
 			// Consultar a la base de datos
 			ResultSet conjuntoResultados = instruccion

@@ -1,4 +1,4 @@
-package com.example.xml;
+package com.example.xml.sax;
 
 
 import java.io.File;
@@ -18,7 +18,7 @@ import org.xml.sax.SAXParseException;
  * @author hiperion
  * @see 
  */
-public class XmlSchemaValidatorUtil {
+public class XMLSchemaValidatorUtil {
 	
 	/**
 	 * Valida un documento XML con un esquema XML (XSD).
