@@ -12,16 +12,12 @@ import java.util.Vector;
 import junit.framework.Assert;
 import junit.framework.JUnit4TestAdapter;
 
-import org.apache.log4j.Logger;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
-import org.junit.Rule;
 import org.junit.Test;
-import org.junit.rules.TestWatchman;
-import org.junit.runners.model.FrameworkMethod;
 
 import com.example.common.Principal;
 

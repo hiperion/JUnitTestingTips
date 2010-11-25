@@ -1,178 +1,12 @@
-INFO main java.lang.Class - Being run...testReadXml1
-INFO main java.lang.Class - The League is: Champions League
-INFO main java.lang.Class - It has: 2 teams
-INFO main java.lang.Class - Club City A:assessment=10,city=City A,It has:1 players
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Being run...testReadXml1
-INFO main java.lang.Class - The League is: Champions League
-INFO main java.lang.Class - It has: 2 teams
-INFO main java.lang.Class - Club City A:assessment=10,city=City A,It has:1 players
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - First Name : yong
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - First Name : yong
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - First Name : yong
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - First Name : yong
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - First Name : yong
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - First Name : yong
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - First Name : low
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - End Element :company
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - Testing .....First Name : yong
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - Testing .....First Name : low
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - End Element :company
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - Testing .....First Name : yong
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - Last Name : mook kim
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - Nick Name : mkyong
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - Salary : 100000
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - Testing .....First Name : low
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - Last Name : yin fong
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - Nick Name : fong fong
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - Salary : 200000
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - End Element :company
-INFO main java.lang.Class - Being run...testReadXml1
-INFO main java.lang.Class - The League is: Champions League
-INFO main java.lang.Class - It has: 2 teams
-INFO main java.lang.Class - Club City A:assessment=10,city=City A,It has:1 players
-INFO main java.lang.Class - Being run...testReadXml2
-INFO main java.lang.Class - Start Element :company
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - Testing .....First Name : yong
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - Last Name : mook kim
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - Nick Name : mkyong
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - Salary : 100000
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - Start Element :staff
-INFO main java.lang.Class - Start Element :firstname
-INFO main java.lang.Class - Testing .....First Name : low
-INFO main java.lang.Class - End Element :firstname
-INFO main java.lang.Class - Start Element :lastname
-INFO main java.lang.Class - Last Name : yin fong
-INFO main java.lang.Class - End Element :lastname
-INFO main java.lang.Class - Start Element :nickname
-INFO main java.lang.Class - Nick Name : fong fong
-INFO main java.lang.Class - End Element :nickname
-INFO main java.lang.Class - Start Element :salary
-INFO main java.lang.Class - Salary : 200000
-INFO main java.lang.Class - End Element :salary
-INFO main java.lang.Class - End Element :staff
-INFO main java.lang.Class - End Element :company
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example1.xml - Example1.xsd
-INFO main java.lang.Class - Being run...TestXML2
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example2.xml - Example2.xsd
-INFO main java.lang.Class - Being run...TestXML2
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example3.xml - Example3.xsd
-INFO main java.lang.Class - Being run...TestXML2
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example4.xml - Example4.xsd
-INFO main java.lang.Class - Being run...TestXML2
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example1.xml - Example1.xsd
-INFO main java.lang.Class - Being run...TestXML2
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example2.xml - Example2.xsd
-INFO main java.lang.Class - Being run...TestXML2
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example3.xml - Example3.xsd
-INFO main java.lang.Class - Being run...TestXML2
-INFO main java.lang.Class - Being run...TestXML
-DEBUG main java.lang.Class - Example4.xml - Example4.xsd
-INFO main java.lang.Class - Being run...TestXML2
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...testCalculationManager
+INFO main java.lang.Class - Testing: oneProductPrice * amount - reduction
+DEBUG main java.lang.Class - My debug message 
 INFO main java.lang.Class - Being run...TestXML
 DEBUG main java.lang.Class - Example1.xml - Example1.xsd
 INFO main java.lang.Class - Being run...TestXML2
@@ -189,439 +23,6 @@ INFO main java.lang.Class - Being run...TestXML
 DEBUG main java.lang.Class - Example4.xml - Example4.xsd
 INFO main java.lang.Class - Being run...TestXML2
 DEBUG main java.lang.Class - Example4.xml - Example4.xsd
-INFO main java.lang.Class - Being run...testCreateXml
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testCreateXML1
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML2
-INFO main java.lang.Class - Being run...testCreateXML1
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML2
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-
-INFO main java.lang.Class - Being run...testCreateXML1
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML2
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - lll0
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - lll0
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - lll0
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - lll0
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - lll0
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - lll1
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Nodes:1
-INFO main java.lang.Class - Being run...testCreateXML
-INFO main java.lang.Class - Storing and displaying the xml document...
-INFO main java.lang.Class - Being run...testReadXML
-INFO main java.lang.Class - Object: [Element: <root/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <article/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <title/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Attribute: valoration="5"]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Attribute
-INFO main java.lang.Class - Object: [Text: Description]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <author/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Element: <name/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: John Smith]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <email/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: john@smit.com]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Object: [Element: <age/>]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
-INFO main java.lang.Class - Object: [Text: 24]
-INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
-INFO main java.lang.Class - Nodes:1
 INFO main java.lang.Class - Being run...testCreateXML
 INFO main java.lang.Class - Storing and displaying the xml document...
 INFO main java.lang.Class - Being run...testReadXML
@@ -651,14 +52,6 @@ INFO main java.lang.Class - Object: [Text: 24]
 INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
 INFO main java.lang.Class - Nodes: 1
 DEBUG main java.lang.Class - My debug message 
-INFO main java.lang.Class - Being run...initTest
-INFO main java.lang.Class - Being run...getLengthTest
-INFO main java.lang.Class - Being run...getTotalLengthTest
-INFO main java.lang.Class - Being run...getIndexOfTest
-INFO main java.lang.Class - Being run...getIndexOfTest2
-INFO main java.lang.Class - Being run...getIndexOfTest3
-INFO main java.lang.Class - Being run...testCalculationManager
-INFO main java.lang.Class - Testing: oneProductPrice * amount - reduction
 INFO main java.lang.Class - Being run...test1
 INFO main java.lang.Class - Being run...test2
 INFO main java.lang.Class - Being run...testEmptyCollection
@@ -691,6 +84,59 @@ INFO main java.lang.Class - Being run...testArray6
 INFO main java.lang.Class - Being run...testArray7
 INFO main java.lang.Class - Being run...testArray8
 INFO main java.lang.Class - Being run...testArray9
+INFO main java.lang.Class - Being run...testReadXml1
+INFO main java.lang.Class - The League is: Champions League
+INFO main java.lang.Class - It has: 2 teams
+INFO main java.lang.Class - Club City A:assessment=10,city=City A,It has:1 players
+INFO main java.lang.Class - Being run...testReadXml2
+INFO main java.lang.Class - Start Element :company
+INFO main java.lang.Class - Start Element :staff
+INFO main java.lang.Class - Start Element :firstname
+INFO main java.lang.Class - Testing .....First Name : yong
+INFO main java.lang.Class - End Element :firstname
+INFO main java.lang.Class - Start Element :lastname
+INFO main java.lang.Class - Last Name : mook kim
+INFO main java.lang.Class - End Element :lastname
+INFO main java.lang.Class - Start Element :nickname
+INFO main java.lang.Class - Nick Name : mkyong
+INFO main java.lang.Class - End Element :nickname
+INFO main java.lang.Class - Start Element :salary
+INFO main java.lang.Class - Salary : 100000
+INFO main java.lang.Class - End Element :salary
+INFO main java.lang.Class - End Element :staff
+INFO main java.lang.Class - Start Element :staff
+INFO main java.lang.Class - Start Element :firstname
+INFO main java.lang.Class - Testing .....First Name : low
+INFO main java.lang.Class - End Element :firstname
+INFO main java.lang.Class - Start Element :lastname
+INFO main java.lang.Class - Last Name : yin fong
+INFO main java.lang.Class - End Element :lastname
+INFO main java.lang.Class - Start Element :nickname
+INFO main java.lang.Class - Nick Name : fong fong
+INFO main java.lang.Class - End Element :nickname
+INFO main java.lang.Class - Start Element :salary
+INFO main java.lang.Class - Salary : 200000
+INFO main java.lang.Class - End Element :salary
+INFO main java.lang.Class - End Element :staff
+INFO main java.lang.Class - End Element :company
+INFO main java.lang.Class - Being run...testReadXml3
+INFO main java.lang.Class - Being run...testReadXml4
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testHashMap1
+INFO main java.lang.Class - Add key/value pairs to the map
+INFO main java.lang.Class - Being run...testHashMapOrderOfInsertion
+INFO main java.lang.Class - Being run...testHashMap2
+INFO main java.lang.Class - Stringllllllllllll String
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...initTest
+INFO main java.lang.Class - Being run...getLengthTest
+INFO main java.lang.Class - Being run...getTotalLengthTest
+INFO main java.lang.Class - Being run...getIndexOfTest
+INFO main java.lang.Class - Being run...getIndexOfTest2
+INFO main java.lang.Class - Being run...getIndexOfTest3
+INFO main java.lang.Class - Being run...testCalculationManager
+INFO main java.lang.Class - Testing: oneProductPrice * amount - reduction
 DEBUG main java.lang.Class - My debug message 
 INFO main java.lang.Class - Being run...TestXML
 DEBUG main java.lang.Class - Example1.xml - Example1.xsd
@@ -736,6 +182,47 @@ INFO main java.lang.Class - *** JDOM Class: org.jdom.Element
 INFO main java.lang.Class - Object: [Text: 24]
 INFO main java.lang.Class - *** JDOM Class: org.jdom.Text
 INFO main java.lang.Class - Nodes: 1
+DEBUG main java.lang.Class - My debug message 
+INFO main java.lang.Class - Being run...test1
+INFO main java.lang.Class - Being run...test2
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray1
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray2
+INFO main java.lang.Class - Element 0: 0
+INFO main java.lang.Class - Element 1: 1
+INFO main java.lang.Class - Element 2: 2
+INFO main java.lang.Class - Element 3: 3
+INFO main java.lang.Class - Element 4: 4
+INFO main java.lang.Class - Element 5: 5
+INFO main java.lang.Class - Element 6: 6
+INFO main java.lang.Class - Element 7: 7
+INFO main java.lang.Class - Element 8: 8
+INFO main java.lang.Class - Element 9: 9
+INFO main java.lang.Class - Being run...testArray3
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testArray6
+INFO main java.lang.Class - Being run...testArray7
+INFO main java.lang.Class - Being run...testArray8
+INFO main java.lang.Class - Being run...testArray9
+INFO main java.lang.Class - Being run...testEmptyCollection
+INFO main java.lang.Class - Being run...testArray4
+INFO main java.lang.Class - Being run...testArray5
+INFO main java.lang.Class - Being run...testHashMap1
+INFO main java.lang.Class - Add key/value pairs to the map
+INFO main java.lang.Class - Being run...testHashMapOrderOfInsertion
+INFO main java.lang.Class - Being run...testHashMap2
+INFO main java.lang.Class - Stringllllllllllll String
 INFO main java.lang.Class - Being run...testReadXml1
 INFO main java.lang.Class - The League is: Champions League
 INFO main java.lang.Class - It has: 2 teams
