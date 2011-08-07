@@ -11,7 +11,7 @@ import com.example.common.Principal;
 
 public class TestingTip1 extends Principal {	
 
-	
+	// hy
 	// How do I test a method that returns an array?
 	// assertEquals doesn't work for arrays. However, the Arrays class has a
 	// static method Arrays.equals(oneArray, theOtherArray), for one-dimensional
